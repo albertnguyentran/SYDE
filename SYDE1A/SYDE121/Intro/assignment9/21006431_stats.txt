@@ -1,0 +1,12 @@
+Avg Row (1) : 127.5
+Avg Row (2) : 159.25
+Avg Row (3) : 167.5
+Avg Row (4) : 149
+Avg Col (1) : 127.5
+Avg Col (2) : 180.75
+Avg Col (3) : 167.5
+Avg Col (4) : 127.5
+Avg Pixel: 150.812
+Average + 1 STD: 267.835        Average - 1 STD: 33.7899        
+Average + 2 STD: 384.858        Average - 2 STD: -83.2328       
+Average + 3 STD: 501.88         Average - 3 STD: -200.255

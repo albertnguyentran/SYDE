@@ -1,0 +1,44 @@
+Avg Row (1) : 0
+Avg Row (2) : 0
+Avg Row (3) : 95.625
+Avg Row (4) : 95.625
+Avg Row (5) : 95.625
+Avg Row (6) : 31.875
+Avg Row (7) : 127.5
+Avg Row (8) : 63.75
+Avg Col (1) : 0
+Avg Col (2) : 0
+Avg Col (3) : 0
+Avg Col (4) : 159.375
+Avg Col (5) : 159.375
+Avg Col (6) : 95.625
+Avg Col (7) : 31.875
+Avg Col (8) : 63.75
+Avg Pixel: 63.75
+Average + 1 STD: 175.041        Average - 1 STD: -47.5411       
+Average + 2 STD: 286.332        Average - 2 STD: -158.832       
+Average + 3 STD: 397.623        Average - 3 STD: -270.123       
+Avg Row (1) : 127.25
+Avg Row (2) : 159.25
+Avg Row (3) : 167.5
+Avg Row (4) : 149
+Avg Col (1) : 127.5
+Avg Col (2) : 180.75
+Avg Col (3) : 167.5
+Avg Col (4) : 127.25
+Avg Pixel: 150.75
+Average + 1 STD: 267.714        Average - 1 STD: 33.7865        
+Average + 2 STD: 384.677        Average - 2 STD: -83.1771       
+Average + 3 STD: 501.641        Average - 3 STD: -200.141       
+Avg Row (1) : 127.25
+Avg Row (2) : 159.25
+Avg Row (3) : 167.5
+Avg Row (4) : 149
+Avg Col (1) : 127.5
+Avg Col (2) : 180.75
+Avg Col (3) : 167.5
+Avg Col (4) : 127.25
+Avg Pixel: 150.75
+Average + 1 STD: 267.714        Average - 1 STD: 33.7865        
+Average + 2 STD: 384.677        Average - 2 STD: -83.1771       
+Average + 3 STD: 501.641        Average - 3 STD: -200.141       
