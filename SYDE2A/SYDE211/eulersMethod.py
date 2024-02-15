@@ -4,6 +4,7 @@ import math
 # change this function accordingly
 def function(x, y):
     return 12- 6*math.cos(math.pi*x)-(y/(5*x+90))
+
 def eulersMethod(steps, stepSize, y, x, significantDigits):
     cur = 0
 
@@ -23,8 +24,7 @@ def eulersMethod(steps, stepSize, y, x, significantDigits):
         
         # y_k+1
         print(f'k: {step+1}  x: {x:.{significantDigits}f}  y: {y:.{significantDigits}f}')
-
-
+ 
     # plt.doc.scatter()
     # plt.scatter(x_points, y_points)
     # plt.show()
